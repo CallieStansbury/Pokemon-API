@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.poke-list{
+  list-style-type: none;
+  font-size: 20px;
+  text-align: center;
+}
+
+.button{
+  font-size: 20px;
+  margin-top:20px;
+  background: mediumspringgreen;
+  align-content: center;
+}
